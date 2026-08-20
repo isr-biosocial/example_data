@@ -1,3 +1,3 @@
 poll, title, requestor, status, credit
-99999999, "Participant Compensation", A. Researcher, <a href="https://www.google.com/">link text"Report Available"</a>,200
-99999998, "Data Sharing", A. Pollster, "Polling In Progress",400
+99999999, Participant Compensation, A. Researcher, <a href="https://www.google.com/">Report Available</a>,200
+99999998, Data Sharing, A. Pollster, "Polling In Progress",400
